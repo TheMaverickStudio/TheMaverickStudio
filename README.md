@@ -7,8 +7,8 @@
 - ⚡ Fun fact: ...
 
 Current Projects
--[FuelSpot.com.au](https://www.fuelspot.com.au/)
--[GptList.io](https://www.gptlist.io/)
+- [FuelSpot.com.au](https://www.fuelspot.com.au/)
+- [GptList.io](https://www.gptlist.io/)
 <!---
 TheMaverickStudio/TheMaverickStudio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
